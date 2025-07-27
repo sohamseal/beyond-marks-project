@@ -1,17 +1,1 @@
-
-# R
-.Rproj.user/
-R/
-
-# Data
-data/ihds-data/data/
-processed-data/
-
-# Reports
-reports/
-
-# Main
-main.R
-
-# Output
-output/
+.DS_Store
